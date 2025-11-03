@@ -1,5 +1,8 @@
-Flask==3.0.3
-tensorflow==2.15.0
+streamlit
+tensorflow==2.19.0
+keras==2.19.0
 numpy
 Pillow
-gunicorn
+plotly
+opencv-python
+streamlit-option-menu
