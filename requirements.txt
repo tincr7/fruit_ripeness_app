@@ -2,6 +2,6 @@ streamlit==1.51.0
 tensorflow==2.20.0
 numpy
 Pillow
-opencv-python
+opencv-python-headless
 plotly
 streamlit-option-menu
